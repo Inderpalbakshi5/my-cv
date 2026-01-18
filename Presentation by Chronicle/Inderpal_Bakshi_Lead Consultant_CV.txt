@@ -1,0 +1,173 @@
+
+INDERPAL BAKSHI
+Technical Consultant - Conversational AI & CX Transformation
+
+46 Tenby Grove, Kingsmead, Buckinghamshire, Milton Keynes MK4 4HN
+Phone: 07761202000 | Email: Inderpalbakshi5@gmail.com
+LinkedIn: linkedin.com/in/inderpal-singh-78050014
+
+PROFESSIONAL SUMMARY
+
+Technical Consultant and Conversational AI Specialist with 19+ years driving omni-channel AI transformation across contact centres in Financial Services, Telecom, and Utilities. Expert in designing, developing, and implementing conversational AI solutions using platforms including LivePerson, NICE CXone, and Verint, with proven success in ROI mapping, data analytics, and customer experience optimization.
+
+Specialist in conversational design with human-centric approach, creating intuitive dialogue flows, conducting user testing, and managing seamless hand-overs. Deep technical expertise in REST APIs, JSON, Postman, and AI agent development, combined with strategic consulting experience in contact centre transformation delivering measurable business outcomes.
+
+CORE COMPETENCIES
+
+• Omni-Channel Conversational AI (eg. LivePerson)
+• Conversational Design & User Experience
+• AI Agent Development & Optimization
+• ROI Mapping & Data Analytics
+• Contact Centre Transformation
+• REST APIs, JSON, Postman Integration
+• Emotional Intelligence in AI Design
+• Multimodal AI Capabilities
+• NLU Training & Intent Management
+• Proactive AI Agent Development
+• AI Ethics & Transparency
+
+PROFESSIONAL EXPERIENCE
+
+TECH MAHINDRA | March 2019 – Present
+Lead AI Transformation Consultant | January 2023 – Present
+
+Conversational AI Platform Expertise:
+• Designed and implemented omni-channel conversational AI solutions using LivePerson Conversational Cloud, NICE CXone, and Verint platforms for 15+ enterprise clients
+• Developed 50+ AI agents with multimodal capabilities handling text, voice, and digital channels, achieving 35% efficiency gains and 28% cost reduction
+• Led integration of Generative AI (ChatGPT, Claude AI, Microsoft Copilot) into existing contact centre platforms without costly replatforming
+
+Conversational Design & Development:
+• Created human-centric conversational flows including sample dialogues, flowcharts, and user journey maps for complex customer interactions
+• Conducted extensive user testing and A/B testing to optimize dialogue design, improving customer satisfaction scores by 23 points
+• Designed intelligent hand-over mechanisms between AI agents and human agents, reducing escalation time by 40%
+• Developed intent libraries with 500+ intents, achieving 92% NLU accuracy through iterative training
+
+ROI Mapping & Analytics:
+• Analyzed conversational AI platform data to map ROI and deliver actionable insights• Built comprehensive dashboards tracking bot metrics, containment rates, conversation success, and customer sentiment
+• Delivered data-driven recommendations resulting in 65% adoption rate improvement and 40% reduction in time-to-value
+
+Contact Centre Transformation:
+• Consulted on and implemented transformation projects across BFSI, Telecom, and Utility sectors
+• Led end-to-end digital transformation initiatives integrating AI agents with existing contact centre infrastructure
+• Developed proactive AI agents anticipating customer needs through predictive analytics and behavioral modeling
+• Integrated emotional intelligence capabilities in AI agents using sentiment analysis and adaptive response strategies
+
+Technical Implementation:
+• Proficient in REST API integration, JSON data structures, and Postman for testing conversational AI endpoints
+• Developed custom integrations connecting AI platforms with CRM systems (Salesforce), knowledge bases, and backend systems
+• Implemented RAG (Retrieval-Augmented Generation) solutions for dynamic knowledge retrieval
+• Built multi-agent AI workflows using N8N, Make.com, and Browser-Use for automated processes
+
+Product Owner – Salesforce CPQ | June 2022 – December 2022
+• Led implementation of Salesforce CPQ with conversational AI integration for guided selling
+• Achieved 89% user adoption through effective change management and training programs
+• Reduced quote-to-cash cycle time by 45% through process automation
+
+Transformation Manager @ BT | June 2021 – June 2022
+• Owned CX transformation initiatives implementing conversational AI across multiple channels
+• Led customer journey mapping exercises identifying pain points and optimization opportunities
+• Improved NPS by 23 points through AI-powered customer experience enhancements
+• Ensured GDPR compliance and AI ethics standards in all implementations
+
+Lead Transformation Consultant | March 2019 – June 2021
+• Implemented AI-powered chatbots, knowledge management automation, and speech analytics
+• Directed end-to-end digital transformation projects across telecom and IT industries
+• Led RFP/RFI processes for conversational AI platforms, evaluating technical capabilities and ROI
+
+DATAFLOW GROUP | October 2014 – November 2018
+Senior Manager – AI Solutions & Operations
+
+• Spearheaded conversational AI and knowledge management automation deployments across BFSI sector
+• Implemented speech analytics and intelligent routing systems improving agent productivity by 52%
+• Enhanced customer engagement by 38% through proactive AI agent implementation
+• Managed large-scale CX projects ensuring regulatory compliance and stakeholder alignment
+
+WIPRO INFOTECH | July 2012 – October 2014
+Manager – Operational Excellence
+
+• Led process optimization and automation initiatives for BFSI clients
+• Implemented Lean Six Sigma methodologies reducing operational costs by 32%
+• Developed customer engagement strategies increasing retention by 27%
+
+IBM GLOBAL PROCESS | December 2004 – July 2011
+Assistant Manager – Service Excellence
+
+• Managed customer service operations achieving 98.5% SLA adherence
+• Implemented AI-driven self-service solutions reducing operational costs by 25%
+• Led process improvement initiatives across 200+ agent operations
+
+TECHNICAL SKILLS
+
+Conversational AI Platforms:
+LivePerson Conversational Cloud | NICE CXone | Verint | Dialogflow | Ultimate AI (familiar)
+
+Generative AI & LLM Tools:
+ChatGPT (GPT-4, GPT-4o, GPT-5) | Claude (Sonnet, Opus) | Microsoft Copilot | Google Gemini | OpenAI API
+
+AI Agent Development:
+N8N | Make.com | Browser-Use | Microsoft AI Studio | Anam.ai | Lyzr Studio | VAPI | MCP
+
+API & Integration:
+REST APIs | JSON | Postman | API Testing & Development | RAG Implementation
+
+Analytics & Insights:
+Speech Analytics | Sentiment Analysis | Bot Metrics | Intent Analytics | Power BI | Tableau
+
+CX Platforms:
+Salesforce Service Cloud | Salesforce CPQ | Zendesk (familiar)
+
+AI Development Tools:
+Replit | Lovable | Prompt Engineering | GitHub Agent Toolkit | OpenRouter
+
+Process Excellence:
+Lean Six Sigma | Process Mining | RPA (Automation Anywhere, WorkFusion)
+
+EDUCATION
+
+PGDBA (Marketing) | Symbiosis Center for Distance Learning | 2008
+Bachelor of Commerce | C.S.J.M University, Kanpur | 2003
+
+CERTIFICATIONS
+
+AI & Conversational Design:
+• OpenAI Academy Certified
+• LivePerson Certified – Conversational AI and Chatbots
+• Certified Scrum Product Owner (CSPO)
+• Certified Scrum Master (CSM)
+
+Technical:
+• RPA – Automation Anywhere Certified
+• WorkFusion Certified
+
+Process Excellence:
+• Six Sigma Black Belt
+• Six Sigma Green Belt
+• Lean Practitioner
+
+Compliance:
+• GDPR Certified
+• ISO Internal Auditor
+
+KEY ACHIEVEMENTS
+
+✓ Designed and deployed 50+ omni-channel conversational AI solutions across LivePerson, NICE, and Verint platforms
+✓ Delivered £3.2M+ cost savings through AI automation and optimization initiatives
+✓ Achieved 92% NLU accuracy through systematic intent library management and training
+✓ Improved customer satisfaction scores by 23 points through human-centric conversational design
+✓ Reduced time-to-value by 40% for enterprise AI implementations
+✓ Enhanced adoption rates by 65% through strategic change management
+✓ Built multi-agent AI workflows with proactive and emotionally intelligent capabilities
+✓ Led award-winning transformation projects across BFSI, Insurance, and Telecom sectors
+
+WHY I'M THE RIGHT FIT
+
+✓ Deep hands-on experience with omni-channel conversational AI platforms (LivePerson, NICE CXone, Verint)
+✓ Proven conversational design expertise with human-centric approach
+✓ Strong technical skills in REST APIs, JSON, Postman, and system integrations
+✓ Demonstrated success in ROI mapping and data analytics delivering measurable results
+✓ Extensive contact centre transformation consulting experience
+✓ Expertise in developing proactive AI agents with emotional intelligence
+✓ Experience implementing multimodal capabilities across channels
+✓ Understanding of AI ethics and transparency in decision-making
+✓ Generative AI implementation experience
+✓ Passion for creating exceptional customer experiences through innovative AI solutions
